@@ -46,7 +46,7 @@ echo "Nilai rata-rata dari $n1, $n2, $n3, $n4, $n5, $n6, $n7, dan $n8 adalah " .
 
 Nilai rata-rata dari 4, 8, 9, 5, 3, dan 7 adalah 5.875
 
-# Nilau Terbesar
+# Nilai Terbesar
 Script dan hasil:
  error_reporting(0);
  $nilai = Array(2,4,1,12,20,14,45,62,90,12,16,17,16,34,32,31,10);         
